@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="censusanalyser.CensusAnalyserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-07T05:23:59" hostname="bridgelabz" time="0.013">
+  <properties/>
+  <testcase name="givenIndianCensusCSVFileReturnsCorrectRecords" classname="censusanalyser.CensusAnalyserTest" time="0.007"/>
+  <testcase name="givenIndianStateCSV_ShouldReturnExactCount" classname="censusanalyser.CensusAnalyserTest" time="0.001"/>
+  <testcase name="givenIndiaCensusData_WithWrongFile_ShouldThrowException" classname="censusanalyser.CensusAnalyserTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

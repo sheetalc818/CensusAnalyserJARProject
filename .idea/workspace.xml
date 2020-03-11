@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cdc79d0-c5d0-42bf-83c2-cdfed3366084" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1YhxTDYxzkURQDSLEJyCzyAnV2R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSVBuilderFiles/out/artifacts/CSVBuilderFiles_main_jar/CSVBuilderFiles.main.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="censusanalyser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/censusanalyser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CensusAnalyserTest">
+    <configuration name="CensusAnalyserTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;censusanalyser.CensusAnalyserTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CensusAnalyserTest.givenIndianCensusCSVFileReturnsCorrectRecords" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;censusanalyser.CensusAnalyserTest.givenIndianCensusCSVFileReturnsCorrectRecords&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/IdeaProjects/ITestListenerDemo" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CensusAnalyserTest" />
+        <item itemvalue="Gradle.CensusAnalyserTest.givenIndianCensusCSVFileReturnsCorrectRecords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cdc79d0-c5d0-42bf-83c2-cdfed3366084" name="Default Changelist" comment="" />
+      <created>1583408632548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583408632548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="375" width="593" height="362" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583410056892">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="692" y="375" width="593" height="362" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.34.1853.1046@67.34.1853.1046" timestamp="1583410056892" />
+    <state x="544" y="240" width="878" height="633" key="FileChooserDialogImpl" timestamp="1583409771752">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="544" y="240" width="878" height="633" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1583409771752" />
+    <state width="1797" height="671" key="GridCell.Tab.0.bottom" timestamp="1583558689438">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="671" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1583558689438" />
+    <state width="1797" height="671" key="GridCell.Tab.0.center" timestamp="1583558689436">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="671" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1583558689436" />
+    <state width="1797" height="671" key="GridCell.Tab.0.left" timestamp="1583558689432">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="671" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1583558689432" />
+    <state width="1797" height="671" key="GridCell.Tab.0.right" timestamp="1583558689437">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="671" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1583558689437" />
+    <state width="1797" height="198" key="GridCell.Tab.1.bottom" timestamp="1583410424440">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1583410424440" />
+    <state width="1797" height="198" key="GridCell.Tab.1.center" timestamp="1583410424439">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1583410424439" />
+    <state width="1797" height="198" key="GridCell.Tab.1.left" timestamp="1583410424438">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1583410424438" />
+    <state width="1797" height="198" key="GridCell.Tab.1.right" timestamp="1583410424440">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1797" height="198" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1583410424440" />
+    <state x="348" y="34" width="1280" height="1046" key="SettingsEditor" timestamp="1583557959899">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="348" y="34" width="1280" height="1046" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1583557959899" />
+  </component>
+</project>
